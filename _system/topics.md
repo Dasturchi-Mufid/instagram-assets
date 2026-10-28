@@ -10,4 +10,4 @@ Har yangi postdan oldin shu ro'yxatni tekshiring — mavzular takrorlanmasin.
 | 2026-10-21 | 2026/10-21-toza-kod-odatlar | Python kodingizni toza qiladigan 5 ta odat (f-string, truthiness, dict.get, erta return, unpacking) | https://www.instagram.com/p/DewrLRdkVLX/ |
 | 2026-10-23 | 2026/10-23-collections-moduli | collections moduli: 4 ta vosita (Counter, defaultdict, deque, namedtuple) + shpargalka | https://www.instagram.com/p/De10ZHYEVTf/ |
 | 2026-10-26 | 2026/10-26-royxat-nusxalash | Ro'yxatni nusxalash: = vs copy() vs deepcopy() (+ [[0]*3]*3 tuzog'i, shpargalka) | https://www.instagram.com/p/De9i6MDETzJ/ |
-| 2026-10-28 | 2026/10-28-fayl-saralash-skript | Amaliy skript: Downloads papkasini pathlib + shutil bilan kengaytma bo‘yicha saralash (DRY_RUN bilan) | — |
+| 2026-10-28 | 2026/10-28-fayl-saralash-skript | Amaliy skript: Downloads papkasini pathlib + shutil bilan kengaytma bo‘yicha saralash (DRY_RUN bilan) | https://www.instagram.com/p/DfCstnbIHjK/ |

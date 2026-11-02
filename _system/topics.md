@@ -12,3 +12,4 @@ Har yangi postdan oldin shu ro'yxatni tekshiring — mavzular takrorlanmasin.
 | 2026-10-26 | 2026/10-26-royxat-nusxalash | Ro'yxatni nusxalash: = vs copy() vs deepcopy() (+ [[0]*3]*3 tuzog'i, shpargalka) | https://www.instagram.com/p/De9i6MDETzJ/ |
 | 2026-10-28 | 2026/10-28-fayl-saralash-skript | Amaliy skript: Downloads papkasini pathlib + shutil bilan kengaytma bo‘yicha saralash (DRY_RUN bilan) | https://www.instagram.com/p/DfCstnbIHjK/ |
 | 2026-10-30 | 2026/10-30-list-tuple-set-dict | list vs tuple vs set vs dict: qachon qaysi biri (+ {} va (5,) tuzoqlari, shpargalka, set testi) | https://www.instagram.com/p/DfH2Fblkfa2/ |
+| 2026-11-02 | 2026/11-02-fayl-bilan-ishlash-xatolar | Fayllar bilan ishlashda 5 ta xato (with, encoding, "w" vs "a", read() vs qatorma-qator, Windows yo‘li/pathlib) + shablon, len("C:\\new") savoli | |

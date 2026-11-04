@@ -13,3 +13,4 @@ Har yangi postdan oldin shu ro'yxatni tekshiring — mavzular takrorlanmasin.
 | 2026-10-28 | 2026/10-28-fayl-saralash-skript | Amaliy skript: Downloads papkasini pathlib + shutil bilan kengaytma bo‘yicha saralash (DRY_RUN bilan) | https://www.instagram.com/p/DfCstnbIHjK/ |
 | 2026-10-30 | 2026/10-30-list-tuple-set-dict | list vs tuple vs set vs dict: qachon qaysi biri (+ {} va (5,) tuzoqlari, shpargalka, set testi) | https://www.instagram.com/p/DfH2Fblkfa2/ |
 | 2026-11-02 | 2026/11-02-fayl-bilan-ishlash-xatolar | Fayllar bilan ishlashda 5 ta xato (with, encoding, "w" vs "a", read() vs qatorma-qator, Windows yo‘li/pathlib) + shablon, len("C:\\new") savoli | https://www.instagram.com/p/DfProbkEVF_/ |
+| 2026-11-04 | 2026/11-04-list-comprehension | List comprehension: for loop’ni bitta qatorga (asos, if filtr, if-else joyi, dict/set comprehension, generator bilan sum, qachon ishlatmaslik) + ikki if savoli | |
